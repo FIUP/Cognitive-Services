@@ -1,0 +1,1 @@
+Bottaro and Carlin. Artist Identification with some Convolutional Neural Networks: https://github.com/BottCode/Artist-Identification-with-Convolutional-Neural-Networks
